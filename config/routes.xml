@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <route url="/hello-([0-9])-([0-9])" module="hello" action="index" vars="id,no"/>
+    <route url="/hello/news" module="hello" action="news" />
+    <!--<route url="/admin/comment-delete-([0-9]+)\.html" module="news" action="deleteComment" vars="id" />-->
+</routes>

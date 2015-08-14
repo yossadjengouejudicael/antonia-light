@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<antonia>
+    <define var="backendflag" value="admin" />
+    <define var="host" value="localhost" />
+    <define var="dbname" value="test" />
+    <define var="port" value="3306" />
+    <define var="username" value="root" />
+    <define var="password" value="" />
+</antonia>
