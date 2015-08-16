@@ -15,6 +15,9 @@ and open the template in the editor.
         // we must give the possibility to manage log through admin interface
         // we must give the possibility to edit a file through admin interface
         // management of modules through admin interface (activation/deactivation)
+        // management of resources through admin interface (database, config file, etc...)
+        
+        //library backend: forbid direct access to script
         ?>
     </body>
 </html>
